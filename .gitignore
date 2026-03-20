@@ -1,0 +1,15 @@
+# Environment variables — never commit secrets
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.code-workspace

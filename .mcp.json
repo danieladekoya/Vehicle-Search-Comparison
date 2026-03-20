@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "miro": {
+      "type": "http",
+      "url": "https://mcp.miro.com"
+    },
+    "n8n-mcp": {
+      "command": "node",
+      "args": [
+        "c:\\Users\\User\\Documents\\Artificial Intelligence\\AI Automation\\Claude Proj\\n8n-mcp\\start-mcp.js"
+      ]
+    }
+  }
+}
