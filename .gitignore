@@ -13,3 +13,6 @@ Thumbs.db
 # Editor
 .vscode/
 *.code-workspace
+
+# Salesforce DX (unrelated to this project)
+.sfdx/
